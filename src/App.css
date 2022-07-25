@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-image: url('../src/component/121912167-concept-of-batsman-run-out-cricket-championship-color-line-art-vector-illustration-.webp');
 }
 
 .App-logo {
@@ -35,4 +36,23 @@
   to {
     transform: rotate(360deg);
   }
+}
+.grmn{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  margin-top: 40px;
+}
+.allpro{
+  width:461px;
+  border: solid 1px black;
+  height: 600px;
+  margin-left: 150px;
+  margin-bottom: 30px;
+}
+/* / */
+  
+.cardd{
+  background-color: green;
+  color: black;
+  margin-top: 30px;
 }
